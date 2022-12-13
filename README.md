@@ -16,8 +16,8 @@ A project displaying the qrcode of frontend mentors for users.
 
 ### Links
 
-- Solution URL: (https://github.com/Chidera-Ok/qr-code-component-main)
-- Live Site URL: (https://chidera-ok.github.io/qr-code-component-main/)
+- Solution URL: (https://github.com/Chidera-Ok/NFT-preview-card-component)
+- Live Site URL: (https://chidera-ok.github.io/NFT-preview-card-component/)
 
 ## My process
 
